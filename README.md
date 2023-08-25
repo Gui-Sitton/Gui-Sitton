@@ -15,7 +15,7 @@
 
 - 📄 Conheça minhas experiências [www.linkedin.com/in/guilhermesitton](www.linkedin.com/in/guilhermesitton)
 
-- ⚡ Curiosidade **I Studied in the USA as a Student-Athelte and also I'm half Italian and half Brazilian.**
+- ⚡ Curiosidade **Estudei nos EUA como um estudante atleta e também tenho cidadania italiana.**
 
 
 
