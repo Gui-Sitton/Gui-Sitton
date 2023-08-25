@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm half Italian and half Brazilian.**
 
-- <img align="right" alt="Data" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5jbDVvejFoNDRsNW1xa3lrMWNwYnE3Zm91bHEzbmRodWNkd3I4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif">
+- <img align="right" alt="Data" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd5dDZmaHU4MXBqMDNzdG00YTRyY2dzZG9kazRyN2tqdHkzOTVyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
