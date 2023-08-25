@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm half Italian and half Brazilian.**
 
+- <img align="right" alt="Data" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5jbDVvejFoNDRsNW1xa3lrMWNwYnE3Zm91bHEzbmRodWNkd3I4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guilherme sitton de carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme sitton de carvalho" height="30" width="40" /></a>
