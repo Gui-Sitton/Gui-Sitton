@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Guilherme Sitton de Carvalho</h1>
 <h3 align="center">Data Enthusiast on a Mission to Revolutionize the World 🌍 | Embracing Hard Work and Embodying Freedom 🚀</h3>
 
@@ -17,7 +18,7 @@
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian, but I have Italian citizenship.**
 
-  
+  <img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
