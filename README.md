@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gsittonc@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/guilhermesitton](www.linkedin.com/in/guilhermesitton)
+- 📄 Know about my experiences [www.linkedin.com/in/guilhermesitton](www.linkedin.com/in/guilhermesitton) and https://flowcv.me/guilhermesitton
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian, but I have Italian citizenship.**
 
