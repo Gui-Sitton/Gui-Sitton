@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Time Series analysis and forecasts**
+- 🔭 I’m currently working on **Neural Network**
 
-- 🌱 I’m currently learning **Time Series, TD-IDF, BERT, Neural Network**
+- 🌱 I’m currently learning **Neural Network, how to build a project for a market that recognizes age of people in photos**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gui-Sitton?tab=repositories](https://github.com/Gui-Sitton?tab=repositories)
 
