@@ -31,13 +31,14 @@
 <p align="left">  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Certificates:</h3>
-<p align="left"> <img width="500" alt="Mestre ML" src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/2ddfcc60-42ca-4531-bb53-ae3ce0c24320">
+<p align="left"> <img width="300" alt="Mestre ML" src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/2ddfcc60-42ca-4531-bb53-ae3ce0c24320">
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/16dec2af-4c85-457a-b8ca-0eb410435713" width="500">
-  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/6dbe27e9-38e4-4806-8053-627944f4dc8e" width="500">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/16dec2af-4c85-457a-b8ca-0eb410435713" width="300">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/6dbe27e9-38e4-4806-8053-627944f4dc8e" width="300">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/3808bb7a-346a-44d6-926b-b9440e9bb4e5" width="300">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/3808bb7a-346a-44d6-926b-b9440e9bb4e5" width="500">
-  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/94b76ce6-22c7-450f-ab68-d99c5804c383" width="500">
-</div>
-<p align="left"> <img width="500" alt="Mestre Python" src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/24c0bcd5-725b-43d4-8746-8356afaa4ac7">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/3808bb7a-346a-44d6-926b-b9440e9bb4e5" width="300">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/94b76ce6-22c7-450f-ab68-d99c5804c383" width="300">
+  <img src="https://github.com/Gui-Sitton/Gui-Sitton/assets/132395003/24c0bcd5-725b-43d4-8746-8356afaa4ac7" width="300">
+
