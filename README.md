@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Neural Network**
 
-- 🌱 I’m currently learning **Neural Network, how to build a project for a market that recognizes age of people in photos**
+- 🌱 I’m currently **building a Machine Learning model for stanford in a kaggle competition**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gui-Sitton?tab=repositories](https://github.com/Gui-Sitton?tab=repositories)
 
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, Gradient Boosting**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, Gradient Boosting, Neural Network**
 
 - 📫 How to reach me **gsittonc@gmail.com**
 
