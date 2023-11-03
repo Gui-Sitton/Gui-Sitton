@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Neural Network**
+- 🔭 I’m currently working on **building a Machine Learning model for stanford in a kaggle competition**
 
-- 🌱 I’m currently **building a Machine Learning model for stanford in a kaggle competition**
+- 🌱 I’m currently **specializing in machine learning and neural networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gui-Sitton?tab=repositories](https://github.com/Gui-Sitton?tab=repositories)
 
