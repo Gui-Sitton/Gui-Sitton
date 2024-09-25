@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **building a Machine Learning model for stanford in a kaggle competition**
+- 🔭 I’m currently working on **building a Machine Learning model for the financial market**
 
 - 🌱 I’m currently **specializing in machine learning and neural networks**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/guilhermesitton](www.linkedin.com/in/guilhermesitton) and https://flowcv.me/guilhermesitton
 
-- ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian, but I have Italian citizenship.**
+- ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian and I have Italian citizenship.**
 
   <img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
