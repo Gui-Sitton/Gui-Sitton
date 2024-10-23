@@ -17,8 +17,15 @@
 - 📄 Know about my experiences [www.linkedin.com/in/guilhermesitton](www.linkedin.com/in/guilhermesitton) and https://flowcv.me/guilhermesitton
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian and I have Italian citizenship.**
+<img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+## Minhas Contribuições no GitHub
 
-  <img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gui-Sitton&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Sitton&layout=compact&theme=radical)
+
+![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=Gui-Sitton&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
