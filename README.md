@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I Studied in the USA as a Student-Athelte and also I'm Brazilian and I have Italian citizenship.**
 <img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-## Minhas Contribuições no GitHub
+<h3 align="left">Minhas Contribuições no GitHub</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gui-Sitton&show_icons=true&theme=radical)
 
